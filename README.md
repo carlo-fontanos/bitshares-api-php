@@ -1,15 +1,15 @@
 # Bitshares API using PHP
 
+### Environment and Requirements
++ Bitshares v2
++ [websocket-php](https://github.com/Textalk/websocket-php)
++ A Running Full Node
 
 ### Installation
 1. Download and install composer [here](https://getcomposer.org/download/)
 2. Using your terminal, navigate to the location of your project, then run `composer install` 
 3. Run your full node.
 4. Open `index.php` then update RPC Endpoint URL to match your requirements. 
-
-### Environment and Requirements
-+ Bitshares v2
-+ A Running Full Node
 
 ### References:
 + API Guide: http://docs.bitshares.org/api/
