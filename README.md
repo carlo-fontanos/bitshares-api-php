@@ -15,7 +15,7 @@
 + API Guide: http://docs.bitshares.org/api/
 + Websocket Protocol and Syntax - http://docs.bitshares.org/api/websocket.html 
 + Access Restricted API's: http://docs.bitshares.org/api/access.html
-+ Graphene App Methods: http://docs.bitshares.org/development/namespaces/app.html
++ Graphene App Method Reference: http://docs.bitshares.org/development/namespaces/app.html
 
 ## Author
 #### Carl Victor C. Fontanos
