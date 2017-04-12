@@ -1,5 +1,7 @@
 # Bitshares API using PHP
 
+The example shows how you can interface with Bitshares' Blockchain API using PHP. 
+
 ### Environment and Requirements
 + Bitshares v2
 + [websocket-php](https://github.com/Textalk/websocket-php)
@@ -16,6 +18,8 @@
 + Websocket Protocol and Syntax - http://docs.bitshares.org/api/websocket.html 
 + Access Restricted API's: http://docs.bitshares.org/api/access.html
 + Graphene App Method Reference: http://docs.bitshares.org/development/namespaces/app.html
+
+If you are looking for an example on how to interface with Bitshares' Wallet API - [click here](https://github.com/carlo-fontanos/bitshares-api-cli-wallet)
 
 ## Author
 #### Carl Victor C. Fontanos
